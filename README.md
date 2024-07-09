@@ -1,4 +1,4 @@
-# 🃏 Milestone Project 2: Card Game
+# 🃏 Card Game - Project
 
 ## Description
 
